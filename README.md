@@ -1,4 +1,4 @@
-# Jack — 3D Creator Portfolio
+# Orbit Tech Portfolio
 
 Landing page de portfólio construída com React + TypeScript + Tailwind CSS + Framer Motion + Lucide React.
 
